@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, #f0f0f0 50%, #005F57 100%);
+    background: linear-gradient(to bottom, #e6e4e4 50%, #005F57 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -149,6 +149,7 @@ small {
   border-top: 2px solid white;
   padding-top: 5px;
 }
+
 
 
 
