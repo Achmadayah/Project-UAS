@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, rgb(255, 255, 255) 50%, #005F57 100%);
+    background: linear-gradient(to bottom, #f0f0f0 50%, #005F57 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -145,4 +145,5 @@ p {
     margin-top: 4rem;
     position: relative;
 }
+
 
