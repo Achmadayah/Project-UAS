@@ -95,3 +95,7 @@ a :hover {
     margin-top: 4rem;
     position: relative;
 }
+small {
+  border-top: 2px solid white;
+  padding-top: 5px;
+
